@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/Neetcode.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/Neetcode.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/Neetcode.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/Neetcode.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0036b24af2311dbb",
+  "active": "8607ce9add8d3e03",
   "lastOpenFiles": [
     "leetcode/242. Valid Anagram.md",
+    "leetcode/1. Two Sum.md",
+    "README.md",
+    "leetcode/217. Contains Duplicate.md",
     "leetcode/Neetcode.md",
     "leetcode/Полезные каналы, которые можно смотреть чтоб лучше решать leetcode.md",
     "leetcode/Где решать leetcode и подобные задачи?.md",
-    "README.md",
-    "leetcode/1. Two Sum.md",
-    "leetcode/217. Contains Duplicate.md",
     "leetcode/49. Group Anagrams.md",
     "Code style frontend updoc.md",
     "Untitled.canvas",
