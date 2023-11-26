@@ -2,4 +2,4 @@
 
 ![Библиотека в Выборге](./files/aalto.png)
 
-Читать инфу из этого репозитория только под этот [плейлист](https://youtu.be/T2IFZrEJ83U?si=woQsqlES50Ha7MeN).
+Читать только под этот [плейлист](https://youtu.be/T2IFZrEJ83U?si=woQsqlES50Ha7MeN).
